@@ -1,19 +1,19 @@
 {
-  "name": "exportsFunction",
+  "name": "exports-function",
   "version": "0.0.2",
   "packageManager": "pnpm@6.32.3",
-  "description": "exportsFunction",
+  "description": "exports-function",
   "author": "Simon He",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git + git@github.com:Simon-He95/exportsFunction.git"
+    "url": "git + git@github.com:Simon-He95/exports-function.git"
   },
   "bugs": {
-    "url": "https://github.com/Simon-He95/exportsFunction/issues"
+    "url": "https://github.com/Simon-He95/exports-function/issues"
   },
   "keywords": [
-    "exportsFunction",
+    "exports-function",
     "vue"
   ],
   "exports": {
