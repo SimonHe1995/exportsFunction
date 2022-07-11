@@ -1,8 +1,8 @@
 <p align="center">
 <img height="200" src="./assets/kt.png" alt="simon-js-tool">
 </p>
-<p align="center"><a href="https://www.npmjs.com/package/simon-js-tool"><img src="https://img.shields.io/npm/v/simon-js-tool?color=3fb883&amp;label=" alt="NPM version"></a></p>
-<p align="center"><a href="https://www.hejian.club/posts/toolsfunction-zh">Docs</a></p>
+<p align="center"><a href="https://www.npmjs.com/package/exports-function"><img src="https://img.shields.io/npm/v/simon-js-tool?color=3fb883&amp;label=" alt="NPM version"></a></p>
+<p align="center"><a href="https://www.hejian.club/posts/exportsfunction-zh">Docs</a></p>
 <p align="center"> <a href="./README_en.md">English</a> | 简体中文</p>
 
 ## 此文是[simon-js-tool](https://www.npmjs.com/package/simon-js-tool)额外的exports-function文档
@@ -87,3 +87,5 @@ jsonExportExcel({
 ```js
 exportPdf('./a.jpg', 'xxx') // 导出xxx.pdf
 ```
+## GitHub地址
+[Welcome to PR](https://github.com/SimonHe1995/exportsFunction)
