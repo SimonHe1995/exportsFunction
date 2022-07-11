@@ -5,7 +5,7 @@
 <p align="center"><a href="https://www.hejian.club/posts/toolsfunction-zh">Docs</a></p>
 <p align="center"> <a href="./README_en.md">English</a> | 简体中文</p>
 
-## 此文是介绍封装的工具函数的文档[simon-js-tool](https://www.npmjs.com/package/simon-js-tool)
+## 此文是[simon-js-tool](https://www.npmjs.com/package/simon-js-tool)额外的exports-function文档
 目前整理了<strong>90+</strong>的常用函数,还在持续更新中...,你的认可是对我最大的鼓励!
 
 ## 赞助我
@@ -20,7 +20,6 @@ npm i simon-js-tool # 安装
 import { 
   deepCompare
  } from 'exportsFunction' # 按需引入
-
 ```
 
 ## jsonExportZip

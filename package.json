@@ -13,8 +13,7 @@
     "url": "https://github.com/Simon-He95/exports-function/issues"
   },
   "keywords": [
-    "exports-function",
-    "vue"
+    "exports-function"
   ],
   "exports": {
     ".": {
