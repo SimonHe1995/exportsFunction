@@ -7,10 +7,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git + git@github.com:Simon-He95/exports-function.git"
+    "url": "git + git@github.com:Simon-He95/exportsFunction.git"
   },
   "bugs": {
-    "url": "https://github.com/Simon-He95/exports-function/issues"
+    "url": "https://github.com/Simon-He95/exportsFunction/issues"
   },
   "keywords": [
     "exports-function"

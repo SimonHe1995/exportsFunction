@@ -5,8 +5,13 @@
 <p align="center"><a href="https://www.hejian.club/posts/exportsfunction-zh">Docs</a></p>
 <p align="center"> <a href="./README_en.md">English</a> | 简体中文</p>
 
-## 此文是[simon-js-tool](https://www.npmjs.com/package/simon-js-tool)额外的exports-function文档
-目前整理了<strong>90+</strong>的常用函数,还在持续更新中...,你的认可是对我最大的鼓励!
+## This article is an additional exports-function documentation for [simon-js-tool] (https://www.npmjs.com/package/simon-js-tool).
+At present, I have sorted out <strong>90+</strong> commonly used functions, and I am still updating..., and your recognition is the biggest encouragement to me!
+
+## 更多
+- 通用函数 simon-js-tool
+- threejs简单化 s-three
+- Echarts简单化 s-charts
 
 ## 赞助我
 ![img](/assets/wechat.jpg 'WeChat')

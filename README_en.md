@@ -8,6 +8,11 @@
 ## This article is documentation that describes the encapsulated utility functions [simon-js-tool](https://www.npmjs.com/package/simon-js-tool)
 At present, I have sorted out <strong>90+</strong> commonly used functions, and I am still updating..., and your recognition is the biggest encouragement to me!
 
+## More
+- Common functions simon-js-tool
+- Threejs simplistic s-three
+- Echarts simplistic s-charts
+
 ## Sponsor me
 ![img](/assets/wechat.jpg 'WeChat')
 
