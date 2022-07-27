@@ -9,9 +9,10 @@
 At present, I have sorted out <strong>90+</strong> commonly used functions, and I am still updating..., and your recognition is the biggest encouragement to me!
 
 ## 更多
-- 通用函数 simon-js-tool
-- threejs简单化 s-three
-- Echarts简单化 s-charts
+- 通用函数 [simon-js-tool](https://www.npmjs.com/package/simon-js-tool)
+- threejs简单化 [@simon_he/s-three](https://www.npmjs.com/package/@simon_he/s-three)
+- Echarts简单化 [@simon_he/s-charts](https://www.npmjs.com/package/@simon_he/s-charts)
+- numsWheel 组件 [@simon_he/nums-wheel](https://www.npmjs.com/package/@simon_he/nums-wheel)
 
 ## 赞助我
 ![img](/assets/wechat.jpg 'WeChat')

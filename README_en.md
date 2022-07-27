@@ -9,9 +9,10 @@
 At present, I have sorted out <strong>90+</strong> commonly used functions, and I am still updating..., and your recognition is the biggest encouragement to me!
 
 ## More
-- Common functions simon-js-tool
-- Threejs simplistic s-three
-- Echarts simplistic s-charts
+- Common functions [simon-js-tool](https://www.npmjs.com/package/simon-js-tool)
+- Threejs simplistic [@simon_he/s-three](https://www.npmjs.com/package/@simon_he/s-three)
+- Echarts simplistic [@simon_he/s-charts](https://www.npmjs.com/package/@simon_he/s-charts)
+- numsWheel Component [@simon_he/nums-wheel](https://www.npmjs.com/package/@simon_he/nums-wheel)
 
 ## Sponsor me
 ![img](/assets/wechat.jpg 'WeChat')
