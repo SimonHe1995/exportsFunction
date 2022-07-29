@@ -5,8 +5,8 @@
 <p align="center"><a href="https://www.hejian.club/posts/exportsfunction-zh">Docs</a></p>
 <p align="center"> <a href="./README_en.md">English</a> | 简体中文</p>
 
-## This article is an additional exports-function documentation for [simon-js-tool] (https://www.npmjs.com/package/simon-js-tool).
-At present, I have sorted out <strong>90+</strong> commonly used functions, and I am still updating..., and your recognition is the biggest encouragement to me!
+## 本文是 [simon-js-tool] （https://www.npmjs.com/package/simon-js-tool） 的附加导出函数文档。
+目前我已经整理出了<strong>90多个</strong>常用功能，还在更新中......，您的认可对我最大的鼓励！
 
 ## 更多
 - 通用函数 [simon-js-tool](https://www.npmjs.com/package/simon-js-tool)
